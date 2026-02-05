@@ -11,14 +11,14 @@ Research into deterministic code generation and auditing — replacing probabili
 
 Demonstrates that programming languages, as formally bounded systems, exhibit predictable entropy that enables deterministic code generation without reliance on LLMs for the majority of tasks. Introduces Constraint Stacking and a six-layer lookup-first architecture achieving 96%+ resolution through deterministic retrieval.
 
-- [PDF](Bounded-Entropy-Code-Generation.pdf) | [Markdown](whitepaper-deterministic-code-generation.md)
+- [PDF](Bounded-Entropy-Code-Generation.pdf)
 
 ### 2. Deterministic Code Auditing for Production-Ready Software
 *A Polyglot Static Analysis System with Fruition Scoring*
 
 Presents AI-Verify, a deterministic code auditing system using tree-sitter parsing across 15 programming languages. Introduces the Fruition Score for quantifying code completeness. 94.7% precision in detecting incomplete code, <100ms per file.
 
-- [PDF](Deterministic-Code-Auditing.pdf) | [Markdown](whitepaper-deterministic-auditing.md)
+- [PDF](Deterministic-Code-Auditing.pdf)
 
 ### 3. Cortex: Neural-Symbolic Programming for Energy-Efficient Code Execution
 *A Unified Language for Polyglot Code Lifting with Continuous Program State Representation*
